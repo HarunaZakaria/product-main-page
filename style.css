@@ -1,0 +1,100 @@
+#title{
+    background-color: #fff;
+}
+.container-fluid{
+    margin-bottom: 15%;
+}
+h1{
+    font-family: "montserrat-black";
+    font-size: 3rem;
+    font-weight: bold;
+}
+h3{
+    font-weight: bold;
+}
+p{
+    color: hsl(219, 9%, 45%);
+    font-size: 16px;
+}
+strong{
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+    margin-right: 1rem;
+}
+hr{
+    padding: 0 0 4.5rem;
+}
+.container-fluid{
+    padding: 3% 10%;
+}
+/* Navigation bar */
+
+.navbar-brand{
+    font-family: "Ubuntu", serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.nav-item{
+    padding: 0 18px;
+}
+.nav-link{
+    font-size: 1.2rem;
+    color: hsl(219, 9%, 45%);
+}
+.toggler{
+    color: hsl(219, 9%, 45%);
+
+}
+
+/* Product section */
+
+.product-image{
+    width: 80%;
+    border-radius: 1rem;
+}
+.sub-products{
+    margin-top: 1.5rem;
+}
+.sub-product{
+    margin-right: 1rem;
+    border-radius: 0.5rem;
+}
+.active{
+    border: 2px solid hsl(26, 100%, 55%);
+    opacity: 50%;
+}
+
+/* Description Section */
+
+.brand-decs{
+    margin-top: 4rem;
+}
+.brand{
+    font-size: 14px;
+    font-weight: bold;
+}
+.crossed{
+    text-decoration: line-through;
+}
+.incre{
+    padding: 0 1rem;
+}
+.decre{
+    padding: 0 1rem;
+}
+.btn-incre-decre{
+    margin-right: 1.5rem;
+}
+.add-to-cart{
+    padding: 0.5rem 1rem;
+}
+
+.attribution{
+    text-align: center;
+    padding: 2rem;
+}
+
+.cart{
+    padding-right: 1.5rem;
+}
